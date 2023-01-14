@@ -26,4 +26,10 @@ public class Samim {
 	public void testThree() {
 		System.out.println("last change is from repo ");
 	}
+	
+	public void testFour() {
+		
+	System.out.println("last change form remote repo");	
+		
+	}		
 }
