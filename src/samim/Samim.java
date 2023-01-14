@@ -16,4 +16,10 @@ public class Samim {
 	public void testOne() {
 		System.out.println("this is from repo section");
 	}
+	
+	public void testTwo() {
+	
+		System.out.println("this is from repo section for second time");
+		
+	}		
 }
