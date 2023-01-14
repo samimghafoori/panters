@@ -12,4 +12,8 @@ public class Samim {
 	System.out.println("this is from remote section");	
 		
 	}
+	
+	public void testOne() {
+		System.out.println("this is from repo section");
+	}
 }
