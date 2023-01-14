@@ -6,5 +6,10 @@ public class Samim {
 		System.out.println("this is from samim and repo ");
 
 	}
-
+	
+	public void test() {
+		
+	System.out.println("this is from remote section");	
+		
+	}
 }
